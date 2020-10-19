@@ -1,8 +1,7 @@
-**demo**: [https://taylorchen709.github.io/vue-admin/](https://taylorchen709.github.io/vue-admin/)
+
 
 # To start
 
-This is a project template for [vue-cli](https://github.com/vuejs/vue-cli)
 
 ``` bash
 # install dependencies
@@ -52,6 +51,3 @@ You can change theme by
 # Browser support
 
 Modern browsers and IE 10+.
-
-# License
-[MIT](http://opensource.org/licenses/MIT)
